@@ -1,2 +1,2 @@
 # hello-world
-following the github tutorial
+Hello! I am Jenna. I am in my Software Engineering class at App state. I am following a github tutorial.
